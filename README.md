@@ -1,2 +1,2 @@
-# Johngo
+# Johngz
 Repositorio Fundamentos Programación
